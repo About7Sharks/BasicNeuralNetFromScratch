@@ -2,6 +2,10 @@
 
 Written with python3
 
+## Setup
+> pip install numpy
+> python script.py
+
 ![BackPropImg](https://i.stack.imgur.com/7Ui1C.png)
 ### Input Data
 |      | Inputs | Outputs |
